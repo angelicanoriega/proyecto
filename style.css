@@ -1,0 +1,67 @@
+body {
+    background-image: url("http://bancoimageneslibres.com/wp-content/uploads/2016/11/Imagenes-de-paisajes-naturales-del-Peru-cascada-900x506.png");
+    
+    background-position: center top;
+     margin: 0;
+    font-family:"Dancing Script", cursive;
+   }
+   .text {
+   color: #ffffff;
+   text-align: center; } 
+   
+   .logo-container {
+     float: left;
+   }
+   
+   .logo {
+     width: 100px;
+    
+   }
+
+   #respuesta{
+       color: #ffffff;
+   }
+   .cararter {
+          
+     color: #ffffff;   
+   }
+   . cararter ul {
+     list-style: none;
+   }
+   
+   .cararter li {
+     float: left;
+     margin: 30px;
+   }
+   
+   .cararter a {
+     color: inherit;
+     text-decoration: none;
+     text-transform: uppercase;
+     font-size: 15 px;
+   }                        
+   .peru {
+     background-color: #000000;
+     background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0,0,0,0)),url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cusco_Piedra_de_los_doce_angulos.jpg/1200px-Cusco_Piedra_de_los_doce_angulos.jpg");           
+     background-repeat: no-repeat;
+     background-position: center top;
+     background-size: cover;
+     color: #ffffff;
+     height: 150px;
+     padding-top: 40px;
+     text-align: center;
+     }
+   .link ul {
+     font-family:"Dancing Script", cursive;
+     list-style: none;
+     border:3px,solid;}
+   .link li {
+     color: black;
+     float: left;
+     margin: 20px;
+     background-color: white;
+     text-align: center bottom;
+     border: 2px solid;}
+    
+
+   
